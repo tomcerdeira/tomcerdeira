@@ -5,7 +5,7 @@
 <p><img align="left" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="200" height="150" alt="tomcerdeira" ></img></p>
 <br>
 <p align="left">
-🌱 Currently learning to become a Computer and Software Engineer
+🌱 Currently studying to become a Computer and Software Engineer
 </p>
 <p align="left">
 📫 Reach me via email: <a href="mailto:tcerdeira@itba.edu.ar">tcerdeira@itba.edu.ar</a>
