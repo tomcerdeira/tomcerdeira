@@ -4,10 +4,10 @@
 
 <br>
 <p align="center">
-🌱 Currently studying to become a Computer and Software Engineer
+🌱 Computer and Software Engineer
 </p>
 <p align="center">
-📫 Reach me via email: <a href="mailto:tcerdeira@itba.edu.ar">tcerdeira@itba.edu.ar</a>
+📫 Reach me via email: <a href="mailto:tomas.cerdeira@gmail.com">tomas.cerdeira@gmail.com</a>
 </p>
 
 <br>
